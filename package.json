@@ -1,0 +1,27 @@
+{
+  "name": "slalom",
+  "version": "0.1.0",
+  "description": "Optimize your AWS Lambda code packaging from one project to multiple services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtouzy/slalom.git"
+  },
+  "keywords": [
+    "aws",
+    "nodejs",
+    "lambda",
+    "functions",
+    "package",
+    "deploy"
+  ],
+  "author": "Jérémy TOUZY <jtouzy2@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtouzy/slalom/issues"
+  },
+  "homepage": "https://github.com/jtouzy/slalom#readme"
+}
